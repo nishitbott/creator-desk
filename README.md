@@ -11,9 +11,9 @@ Track: Best Business Workflow. Built on the official Switch `support-desk` templ
 
 ## Day plan
 
-1. Nov 4 — Switch Console quickstart, instantiate template on Mattermost, connect Discord, drop docs into agent directories
-2. Nov 5 — Tune greeter, submissions document, escalation flow
-3. Nov 6 — Policy + analyst report, optional Slack, 30 test questions
+1. Nov 4 — Switch Console quickstart, instantiate template, connect Discord, drop docs into agent directories
+2. Nov 5 — Tune greeter, submissions document, escalation flow (see SETUP.md)
+3. Nov 6 — Policy + analyst report, optional Slack, 30 questions in demo-test-questions.md
 4. Nov 7 — README polish, 3 min demo, blog / #HowISwitch, submit by 11:59 PM IST
 
 ## Demo script
